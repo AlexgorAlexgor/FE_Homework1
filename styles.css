@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+div {
+    background-color: hsla(330, 1%, 54%, 0.976) ;
+    padding: 1px;
+
+}
+p {
+    background-color: #34495E ;
+    border-radius: 20px ;
+    padding: 21px;
+    margin: 15px 10px 10px 25px;
+
+}
+h1
+{
+padding: 25px;
+}
+
